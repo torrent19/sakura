@@ -1,0 +1,399 @@
+
+
+*{ 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box ; 
+ 
+} 
+.main{ 
+    height: 100vh; 
+    background-image: url(./../lesson6/taun/header-bg-1.jpg); 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    color: white; 
+} 
+header{ 
+    height: 10vh; 
+    padding-top: 2vh; 
+} 
+.left{ 
+    width: 50%; 
+    display: inline-block; 
+    height: 100%; 
+} 
+.right{ 
+    width: 49%; 
+    display: inline-block; 
+    text-align: right; 
+    height: 100%; 
+    font-size: 1.3em; 
+ 
+} 
+.left img{ 
+    width: 100%; 
+ 
+} 
+.right img{ 
+    width: 30px; 
+    height: 70%; 
+} 
+.container{ 
+    width: 60%; 
+    margin: 0 auto; 
+} 
+main{ 
+    height: 70vh; 
+    border: 40px gold solid; 
+    margin-top: 10%; 
+    text-align: center; 
+} 
+main>p>span{ 
+    color: gold ; 
+} 
+main h1{ 
+    font-size: 3em; 
+    margin-top:2% ; 
+    margin-bottom:10% ; 
+} 
+main h4{
+    margin-top: -53px;
+}
+main p{
+    margin-top: 0px;
+}
+main>div{ 
+    margin-top: 10px; 
+    margin-bottom: 25px; 
+    font-size: 1.5em; 
+} 
+ 
+main>div>img{ 
+    vertical-align: bottom; 
+} 
+main>button{ 
+    border: none; 
+    padding: 10px 15px; 
+    background-color: gold; 
+    margin-top:-30px;
+} 
+.iteam{ 
+    width: 32%; 
+    display: inline-block; 
+    text-align: center; 
+ 
+} 
+.iteam img{ 
+    width: 80px; 
+    height: 80px; 
+ 
+}
+/* after location */
+.after location{
+    background-color: honeydew;
+
+}
+afterlocation b{
+ font-size: 20px;   
+}
+.foto{
+    width: 322px;
+    height: 195px;
+    margin-top: 45px;
+    position: relative;
+    left: 279px;
+}
+.square{
+    height: 59px;
+    width: 69px;
+    border: 6px solid gold;
+    position: relative;
+    left: 950px;
+    top: -258px;
+}
+.sakura{
+    font-size: 20px;
+    text-align: left;
+    position: relative;
+    left: 612px;
+    bottom: 266px;
+}
+.text{
+    font-size: 10px;
+    text-align: left;
+    position: relative;
+    left: 612px;
+    top: -260px;
+
+}
+.text2{
+    font-size: 10px;
+    font-weight: 100px;
+    text-align: left;
+    position: relative;
+    left: 615px;
+    top: -216px;
+    
+}
+.text3{
+    border: 5px solid gold;
+
+    position: relative;
+    left: 613px;
+    top: -191px;
+
+}
+/* 2 */
+.foto2{
+    width: 322px;
+    height: 195px;
+    margin-top: 45px;
+    position: relative;
+    left: 612px;
+}
+.square2{
+    height: 59px;
+    width: 69px;
+    border: 6px solid gold;
+    position: relative;
+    left: 200px;
+    top: -258px;
+}
+.sakura2{
+    font-size: 20px;
+   
+    position: relative;
+    left: 279px;
+    bottom: 270px;
+}
+.text4{
+    font-size: 10px;
+    text-align: left;
+    position: relative;
+    left: 279px;
+    top: -260px;
+
+}
+.text5{
+    font-size: 10px;
+    font-weight: 100px;
+    text-align: left;
+    position: relative;
+    left: 279px;
+    top: -216px;
+}
+.text6{
+    border: 5px solid gold;
+
+    position: relative;
+    left: 279px;
+    top: -191px;
+
+}
+/* 3 */
+.foto3{
+    width: 322px;
+    height: 195px;
+    margin-top: 45px;
+    position: relative;
+    left: 279px;
+}
+.square3{
+    height: 59px;
+    width: 69px;
+    border: 6px solid gold;
+    position: relative;
+    left: 250px;
+    top: -24px;
+}
+.sakura3{
+    font-size: 20px;
+    text-align: left;
+    position: relative;
+    left: 612px;
+    bottom: 266px;
+}
+.text7{
+    font-size: 10px;
+    text-align: left;
+    position: relative;
+    left: 612px;
+    top: -260px;
+
+}
+.text8{
+    font-size: 10px;
+    font-weight: 100px;
+    text-align: left;
+    position: relative;
+    left: 612px;
+    top: -216px;
+    
+}
+.text8{
+    border: 5px solid gold;
+
+    position: relative;
+    left: 612px;
+    top: -191px;
+
+}
+
+.fotto{ 
+    height: 100vh; 
+    width: 100%;
+    
+    
+}
+/* wifi */
+
+.elelefts{
+    display: inline-block;
+    width: 50%;
+
+}
+.element>p{
+    position: relative;
+    top: -29px;
+    left: 73px;
+}
+.eleright{
+    display: inline-block;
+    width: 49%;
+
+}
+.element img{
+    display: inline-block;
+    width: 50px;
+}
+.element>span{
+    display: inline-block;
+    vertical-align: 27px;
+   color: gray;
+   margin-left: 52px;
+   margin-top: 20px;
+
+}
+.element>span>span{
+  font-style: italic;  
+  margin-left: 15px;
+    margin-top: 20px;
+} 
+
+section .container>h1::before{
+    content: "";
+    background-color: black;
+    height: 2px;
+    width: 30px;
+}
+.knopka{
+    border: none; 
+    padding: 10px 15px; 
+    background-color: gold; 
+    margin-top:-30px;
+    margin-left: 207px;
+} 
+.contact{
+    background-image: url(./taun/fon_ost-1.jpg);
+    height: 100vh; 
+    
+    background-size: cover;
+}
+ .contact>div>span{
+    color: gold;
+    position: relative;
+    left: 342px;
+    top: 125px;
+}
+.uznat{
+   position: relative;
+   left: 14px;
+    color: gold;
+}
+.jdem{
+    position: relative;
+    top: 205px;
+    left: 346px;
+}
+h5{
+    position: relative;
+    top: 132px;
+    left: 345px;
+}
+.contacts{
+    display: block;
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+.button2{
+    border: none; 
+    padding: 10px 15px; 
+    background-color: gold; 
+    margin-top:-30px;
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+.cont{
+    display: inline-block;
+    position: relative;
+    left: 829px;
+    top: 43px;
+}
+.pozvonite{
+    position: relative;
+top: 139px;
+left: 631px;
+display: grid;
+}
+.tttext{
+    font-size: 20px;
+    color: white;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+.nomer{
+    position: relative;
+    top: -21px;
+    left: 36px;
+    color: white;
+    font-size: 16px;
+}
+.last{
+    background-image: url(./taun/fon_ost-1.jpg);
+    height: 100vh; 
+    
+    background-size: cover;
+}
+.question{
+    position: relative;
+    left: 635px;
+    top: 20px;
+    display: inline-block;
+}
+.c{
+    position: relative;
+    top: 106px;
+    left: -418px;
+}
+.face{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+.button3{
+    position: relative;
+    top: 103px;
+    left: -418px;
+   background-color: gold; 
+}
+.elelefts>span,.elelefts>p{
+    margin-left: 20px;
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
